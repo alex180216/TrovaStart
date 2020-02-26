@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TrovaStart</string>
+    <string name="tab_cercanas">CERCANAS</string>
+    <string name="tab_promos">PROMOS</string>
+    <string name="tab_favoritas">FAVORITAS</string>
+    <string name="text_appbar">TROVA</string>
+    <string name="text_bottom">PULSA AQUí PARA CONTACTAR CON NOSOTROS</string>
+
+    <!-- Fragment Cercanas -->
+    <string name="title_nombre_pelu">NOMBRE PELUQUERIA</string>
+    <string name="label_distancia">DISTANCIA:</string>
+    <string name="title_direccion_pelu">DIRECCION 123</string>
+
+    <string name="hello_blank_fragment">Hello</string>
+
+    <!-- Fragment Promo -->
+    <string name="label_promo">PROMOCION</string>
+    <string name="label_disp">NONE</string>
+
+    <!--Perfil peluqueria -->
+    <string name="label_se_encuentra_a_">SE ENCUENTRA A </string>
+    <string name="label_personas_la_prefieren"> PERSONAS LA PREFIEREN</string>
+    <string name="label_promociones">¡PROMOCIONES!</string>
+    <string name="label_telefono">1234567</string>
+    <string name="label_precio">$123</string>
+    <string name="label_costo">CORTE</string>
+
+    <string name="label_en_este_momento">EN ESTE MOMENTO SE ENCUENTRA</string>
+    <string name="label_abierto_cerrado">CERRADO</string>
+    <string name="label_horarios">HORARIOS DE ATENCION</string>
+    <string name="label_dist">0 M</string>
+
+    <!--Perfil promo -->
+
+    <string name="label_ir_a_descripcion">IR A DESCRIPCION</string>
+
+
+</resources>
